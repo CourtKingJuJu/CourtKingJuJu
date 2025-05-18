@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋! I'm Julian McCarty 
+
+### 🔭 Current Interests
+- 🐍 **Python** for scripting, automation, and backend development
+- 📊 **Data Science & Machine Learning** – working with data to build smart tools
+- 🔗 **Blockchain Development** – exploring smart contracts and decentralized applications (dApps)
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/julian-mccarty-a34380291/)
+- Email: Julianmccarty32@gmail.com
+
+### 📈 GitHub Stats
+
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-CourtKingJuJu&show_icons=true&theme=tokyonight)
+
+
+
+
 
 <!--
 **CourtKingJuJu/CourtKingJuJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
