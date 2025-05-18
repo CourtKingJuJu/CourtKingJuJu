@@ -9,9 +9,9 @@
 - [LinkedIn](https://www.linkedin.com/in/julian-mccarty-a34380291/)
 - Email: Julianmccarty32@gmail.com
 
-### 📈 GitHub Stats
+### 📌 Most Used Languages
 
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-CourtKingJuJu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourtKingJuJu&layout=compact&theme=tokyonight)
 
 
 
