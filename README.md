@@ -9,9 +9,10 @@
 - [LinkedIn](https://www.linkedin.com/in/julian-mccarty-a34380291/)
 - Email: Julianmccarty32@gmail.com
 
-### 📌 Most Used Languages
+### 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CourtKingJuJu&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CourtKingJuJu&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
