@@ -1,9 +1,9 @@
 # Hi 👋! I'm Julian McCarty 
 
 ### 🔭 Current Interests
-- 🐍 **Python** for scripting, automation, and backend development
-- 📊 **Data Science & Machine Learning** – working with data to build smart tools
-- 🔗 **Blockchain Development** – exploring smart contracts and decentralized applications (dApps)
+- 🤖 **Machine Learning**
+- 📊 **Data Science** 
+- 🎮 **Game Dev** 
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/julian-mccarty-a34380291/)
