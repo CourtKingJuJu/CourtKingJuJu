@@ -3,7 +3,7 @@
 ### 🔭 Current Interests
 - 🤖 **Machine Learning**
 - 📊 **Data Science** 
-- 🎮 **Game Dev** 
+- 🌎 **Intrinsically Valuable ML/AI Applications** 
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/julian-mccarty-a34380291/)
